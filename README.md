@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # Bounce
+![Screenshot (113)](https://user-images.githubusercontent.com/94777263/232280081-ebfc4376-2f7d-46d0-86ec-3c0a0dabdefd.png)
 
-![ Red-ball](C:\Users\Informatiker\Pictures\Screenshots\Screenshot (112).png)
-=======
 
->>>>>>> 2d2913830bad0b5a2cb626d41b74b66e558d480a

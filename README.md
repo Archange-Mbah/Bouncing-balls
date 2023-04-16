@@ -9,9 +9,14 @@
  -Stern.java
  
  1) Bounce.java
-   - When we run launch this file in the terminal of an IDE, we can see a moving ball, been reflected by the sides of thw windows.
+   - When we run launch this file in the terminal of an IDE, we can see a moving ball, been reflected by the sides of the window.
    - It can be launched using the pfad of the file and adding  java -cp core.jar Bounce.java  .
    
 ![Screenshot (113)](https://user-images.githubusercontent.com/94777263/232280081-ebfc4376-2f7d-46d0-86ec-3c0a0dabdefd.png)
+
+2) Ballsbouncing.java
+ - When we run launch this file in the terminal of an IDE, we can see two moving balls, been reflected by the sides of the window.
+ - The balls also change direction after a collision with each other
+ - It can be launched using the pfad of the file and adding  java -cp core.jar Ballsbouncing.java  .
 
 

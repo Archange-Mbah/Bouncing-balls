@@ -17,9 +17,9 @@ public class MySketch extends PApplet {
     }
 
     public void draw() {
-        background(0);
+        //background(0);
         b1.randomPos();
-        b1.draw();
+       // b1.draw();
         b2.randomPos();
         b2.draw();
     }

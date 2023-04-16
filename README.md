@@ -18,5 +18,8 @@
  - When we run launch this file in the terminal of an IDE, we can see two moving balls, been reflected by the sides of the window.
  - The balls also change direction after a collision with each other
  - It can be launched using the pfad of the file and adding  java -cp core.jar Ballsbouncing.java  .
+ 
+ ![Screenshot (115)](https://user-images.githubusercontent.com/94777263/232281055-a5467b4f-b905-4fb4-bbbb-6013c8d22d56.png)
+
 
 

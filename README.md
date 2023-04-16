@@ -1,7 +1,22 @@
-<<<<<<< HEAD
 # Bounce
+-An example of what Bounce.java generates
 
-![ Red-ball](C:\Users\Informatiker\Pictures\Screenshots\Screenshot (112).png)
-=======
+ 
 
->>>>>>> 2d2913830bad0b5a2cb626d41b74b66e558d480a
+ In this repository, we have three three main files in the lib folder:
+ --Bounce.java
+ -Ballsbouncing.java
+ -Stern.java
+ 
+ 1) Bounce.java
+   - When we run launch this file in the terminal of an IDE, we can see a moving ball, been reflected by the sides of the window.
+   - It can be launched using the pfad of the file and adding  java -cp core.jar Bounce.java  .
+   
+![Screenshot (113)](https://user-images.githubusercontent.com/94777263/232280081-ebfc4376-2f7d-46d0-86ec-3c0a0dabdefd.png)
+
+2) Ballsbouncing.java
+ - When we run launch this file in the terminal of an IDE, we can see two moving balls, been reflected by the sides of the window.
+ - The balls also change direction after a collision with each other
+ - It can be launched using the pfad of the file and adding  java -cp core.jar Ballsbouncing.java  .
+
+

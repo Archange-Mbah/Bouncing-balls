@@ -12,7 +12,7 @@ public class Ballsbouncing extends PApplet {
     int keyboard=0;
    int counter=0;
     int xspeed=1;
-    int yspeed=1;
+    int yspeed=2;
     int x2speed=1;
     int y2speed=1;
     int xrec=0;
